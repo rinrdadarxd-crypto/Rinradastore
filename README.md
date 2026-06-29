@@ -768,6 +768,3 @@ function submitOrder(event) {
 </script>
 
 </body>
-</html>
-
-```
